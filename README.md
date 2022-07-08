@@ -34,6 +34,7 @@ This is the place to shop your game assets using the DGN game token and later us
 # Tools and Tech Stack
 - The game is built on Phaser.
 - The app is built in React
+- IPFS to store NFT metadata
 - We deploy our contracts to Near Auora TestNet.
 - Random Attributes are generated using a random generator on Aurora Testnet
 - Web3 JS is used to interact with the smart contract ABI while emitting in-game events.
