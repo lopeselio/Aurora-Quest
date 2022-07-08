@@ -25,15 +25,27 @@ Contract Addresses:
 - Token Address Dungeon Token $DGN on Aurora TestNet: `ADDRESS` View here: [Aurora Explorer]()
 
 
-# GamePlay Screenshots
+# GamePlay anf Trophy Cabinet Screenshots
+
+<img width="1440" alt="Screenshot 2022-07-08 at 7 20 31 PM" src="https://user-images.githubusercontent.com/43913734/178009170-d35dd29a-01a9-43ba-afce-cdaff89697c2.png">
+
+![image](https://user-images.githubusercontent.com/43913734/178009380-fd949423-95eb-4440-b020-9a6967a197ab.png)
+
+<img width="1440" alt="Screenshot 2022-07-08 at 7 41 07 PM" src="https://user-images.githubusercontent.com/43913734/178009421-18897e63-7c90-437f-a42f-429aca07ecdb.png">
+
+<img width="1440" alt="Screenshot 2022-07-08 at 7 40 38 PM" src="https://user-images.githubusercontent.com/43913734/178009704-fc3f498a-83b4-4a62-aaa8-eb043e9433af.png">
 
 
+<img width="1440" alt="Screenshot 2022-07-08 at 7 40 32 PM" src="https://user-images.githubusercontent.com/43913734/178009465-91bac0c1-9700-4a2d-8241-651595a41c2a.png">
 
-# Trophy Cabinet 
-<img width="1440" alt="image" src="">
+<img width="1440" alt="Screenshot 2022-07-08 at 7 42 06 PM" src="https://user-images.githubusercontent.com/43913734/178009616-f0a3c806-3ed5-430b-a2e8-6dd0aff314b9.png">
 
-# User Dashboard
-<img width="1440" alt="image" src="">
+<img width="1440" alt="Screenshot 2022-07-08 at 7 42 18 PM" src="https://user-images.githubusercontent.com/43913734/178009664-5475f6c7-ea8e-470c-81e0-c47cb37e8ab3.png">
+
+
+<img width="1440" alt="Screenshot 2022-07-08 at 7 40 17 PM" src="https://user-images.githubusercontent.com/43913734/178009511-087eca65-79b9-400a-8f51-7d4f95fc44b1.png">
+
+
 
 
 
