@@ -41,7 +41,7 @@ This is the place to shop your game assets using the DGN game token and later us
 - Near Aurora Blockchain provides the perfect platform to build games due to its scalability and robust infrastructure, and moreover low gas fees..
 
 Contract Addresses:
-- Token Address Dungeon Token $DGN on Aurora TestNet: `ADDRESS` View here: [Aurora Explorer]()
+- Token Address Dungeon Token $DGN on Aurora TestNet: `0x0522a16271503069a92E3811E868dD3A3cADF752` View here: [Aurora Explorer](https://testnet.aurorascan.dev/address/0x0522a16271503069a92E3811E868dD3A3cADF752)
 
 
 # GamePlay anf Trophy Cabinet Screenshots
