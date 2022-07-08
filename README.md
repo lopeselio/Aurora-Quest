@@ -1,5 +1,7 @@
 # AuroraQuest
 
+DECK: [Slide Deck](https://docs.google.com/presentation/d/1X6C39HO02X8d35TP1ROVq2myij7eP_rDd_04726ms4c/edit?usp=sharing)
+
 [Youtube Demo Here](https://youtu.be/wb5csRVoluk)
 An RPG dungeon game wherein the player has to enconter and fight monsters who are guarding chests, and gain loot in ERC-20 DGN (in-game) token (Dungeon Token).
 
