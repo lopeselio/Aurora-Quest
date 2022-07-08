@@ -8,6 +8,8 @@ Once the user collect the Aurora NFT collectible, an NFT is minted to your NFT-T
 
 # AuroraQuest Marketplace
 
+[https://github.com/lopeselio/Aurora-Quest-Marketplace](https://github.com/lopeselio/Aurora-Quest-Marketplace)
+
 This is the place to shop your game assets using the DGN game token and later use these to equip the purchased heroes inside the dungeon based AuroraQuest Game on the NEAR Aurora Testnetwork. You can obtain DGN (Game Native Token) token by swapping an equivalent amount of Aurora Rinkeby ETH  on the swap inside our Metaverse.
 
 
