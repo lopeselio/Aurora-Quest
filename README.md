@@ -1,6 +1,6 @@
 # AuroraQuest
 
-[Youtube Demo Here](LINKS TO YOUTUBE)
+[Youtube Demo Here](https://youtu.be/wb5csRVoluk)
 An RPG dungeon game wherein the player has to enconter and fight monsters who are guarding chests, and gain loot in ERC-20 DGN (in-game) token (Dungeon Token).
 
 The player has to finally unlock the locked gates by seeking the keys to the token-gate who is locked inside a wall in the dungeon and ultimately defeat the the evil angel who possesses the ultimate key to the Aurora NFT.
