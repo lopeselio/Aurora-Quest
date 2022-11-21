@@ -3,6 +3,8 @@
 Built at NEAR MetaBUILD Hackathon 
 ![image](https://user-images.githubusercontent.com/43913734/203008822-a40f63de-feba-4ae2-80c5-3ec47360f396.png)
 
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/43913734/203029371-dbbedb58-adce-4524-8bac-561694017e73.png">
+
 
 DECK: [Slide Deck](https://docs.google.com/presentation/d/14_9SQ7EJmIgXT5J3oHE2OxzJpaKDr92SIv_FKCzkmM0/edit?usp=sharing)
 
@@ -12,6 +14,8 @@ An RPG dungeon game wherein the player has to enconter and fight monsters who ar
 The player has to finally unlock the locked gates by seeking the keys to the token-gate who is locked inside a wall in the dungeon and ultimately defeat the the evil angel who possesses the ultimate key to the Aurora NFT.
 Once the user collect the Aurora NFT collectible, an NFT is minted to your NFT-Trophy Gallery. These NFTs are verifiably provable and powered by random number generators, which gives them random attributes on-chain.
 
+# Architecture
+![image](https://user-images.githubusercontent.com/43913734/203028786-eb177521-3b53-455d-aec5-9407f66ceaf3.png)
 
 # Team
 Elio Jordan Lopes [https://twitter.com/ElioOnCelo](https://twitter.com/ElioOnCelo)
