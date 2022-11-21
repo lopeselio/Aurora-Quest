@@ -4,7 +4,7 @@ Built at NEAR MetaBUILD Hackathon
 ![image](https://user-images.githubusercontent.com/43913734/203008822-a40f63de-feba-4ae2-80c5-3ec47360f396.png)
 
 
-DECK: [Slide Deck](https://docs.google.com/presentation/d/1X6C39HO02X8d35TP1ROVq2myij7eP_rDd_04726ms4c/edit?usp=sharing)
+DECK: [Slide Deck](https://docs.google.com/presentation/d/14_9SQ7EJmIgXT5J3oHE2OxzJpaKDr92SIv_FKCzkmM0/edit?usp=sharing)
 
 [Youtube Demo Here](https://youtu.be/iRiWgD5oM3I)
 An RPG dungeon game wherein the player has to enconter and fight monsters who are guarding chests, and gain loot in ERC-20 DGN (in-game) token (Dungeon Token).
