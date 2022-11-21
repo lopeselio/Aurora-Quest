@@ -1,8 +1,12 @@
 # AuroraQuest
 
+Built at NEAR MetaBUILD Hackathon 
+![image](https://user-images.githubusercontent.com/43913734/203008822-a40f63de-feba-4ae2-80c5-3ec47360f396.png)
+
+
 DECK: [Slide Deck](https://docs.google.com/presentation/d/1X6C39HO02X8d35TP1ROVq2myij7eP_rDd_04726ms4c/edit?usp=sharing)
 
-[Youtube Demo Here](https://youtu.be/wb5csRVoluk)
+[Youtube Demo Here](https://youtu.be/iRiWgD5oM3I)
 An RPG dungeon game wherein the player has to enconter and fight monsters who are guarding chests, and gain loot in ERC-20 DGN (in-game) token (Dungeon Token).
 
 The player has to finally unlock the locked gates by seeking the keys to the token-gate who is locked inside a wall in the dungeon and ultimately defeat the the evil angel who possesses the ultimate key to the Aurora NFT.
