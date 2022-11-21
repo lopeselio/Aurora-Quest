@@ -23,7 +23,9 @@ Elio Jordan Lopes [https://twitter.com/ElioOnCelo](https://twitter.com/ElioOnCel
 - TG: @ElioOnCelo
 - Discord : devELIOper#4870
 
-# Smart Contracts Deployed to Emerald Paratime Network
+# Smart Contracts Deployed to Near Aurora l2 Network
+![image](https://user-images.githubusercontent.com/43913734/203010516-d14c09d3-1c07-4fe4-87c6-cca60919bb20.png)
+
 `nftaddress = "0x5c089556FA8814E4A7065188C6bc33FFB6274cA1"` 
 
 [Verify Here on Aurora Testnet Explorer on Near Blockchain](https://testnet.aurorascan.dev/address/0x5c089556FA8814E4A7065188C6bc33FFB6274cA1)
